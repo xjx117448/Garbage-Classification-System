@@ -1,2 +1,2 @@
 # Garbage-Classification-System
-智能垃圾检测系统
+Garbage Classification System Based on YOLOv5 and PyQt5
